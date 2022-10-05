@@ -6,7 +6,6 @@
 
 /**
  * This function displays "Hello, World!".
- * @constructor
  */
 
 function myButtonClicked() {
